@@ -20,7 +20,7 @@ These three scripts work together using the `info.txt` file as their central dat
 * **Run When:** You need to create a large number of empty files and folders for a new section of your project.
 * **Use Case:** Ideal for bootstrapping new coding projects or sections where you want a consistent structure without manually creating each file.
 
-### 3. `FFolder_and_File_Lister.py` (Documentation Lister)
+### 3. `Folder_and_File_Lister.py` (Documentation Lister)
 * **What it does:** Reads the `info.txt` data and generates a `project_list.md` file. This file contains **clickable Markdown links** for every single file you created.
 * **Run When:** You need to generate the final, clean list of all your work for documentation or sharing.
 * **Use Case:** Great for GitHub README files! It'll make your readme look super organized and professional.
